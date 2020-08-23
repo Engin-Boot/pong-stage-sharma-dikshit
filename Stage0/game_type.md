@@ -8,7 +8,7 @@ Allows the user to create a new game, resume a saved instance of the game.
 
 - Given: Opened/Running game.
 - When: User selects to create a new game.
-- Then: Create a new profile of the game and provide options how the user widh
+- Then: Create a new profile of the game and provide options how the user wants
 to start the game.
 
 ## Scenario : Loading a saved profile
