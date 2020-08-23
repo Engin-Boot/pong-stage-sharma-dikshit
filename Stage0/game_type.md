@@ -17,7 +17,7 @@ to start the game.
 - When: User selects to load the saved profile.
 - Then: Load the progress of the saved instance of the game.
 
-## Scenario : Resuming a ongoing instance of the game.
+## Scenario : Resuming a ongoing instance of the game
 
 - Given: Opened/Running game.
 - When: User wants to continue to ongoing paused instance of the game.
