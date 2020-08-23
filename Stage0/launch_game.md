@@ -14,7 +14,7 @@ and hit enter.
 hit enter.
 - Then: Launch a preset interface of the game.
 
-### Scenario: Relauching the paused/minimized instance of the game
+### Scenario: Relaunching the paused/minimized instance of the game
 
 - Given: A working executable of the game.
 - When: The user double clicks the game icon/select the game icon and
